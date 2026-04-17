@@ -1,3 +1,4 @@
 Hello CI/CD
 New feature added
 Auto trigger test
+auto trigger working
