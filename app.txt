@@ -1,2 +1,3 @@
 Hello CI/CD
 New feature added
+Auto trigger test
